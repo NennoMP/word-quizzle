@@ -1,4 +1,4 @@
-# WordQuizzle 2019/2020 - Computer Networks and Laboratory Project, University of Pisa
+# WordQuizzle 2019/2020 - Computer Networks and Laboratory Project - University of Pisa
 
 ## Introduction
 This project aims at developing a Client-Server service a word transaltion game (IT-ENG) between registered users. The two core components are the Client and the Server, the protocols used for their communication are:
